@@ -1,0 +1,544 @@
+{
+	"folder_history":
+	[
+		"/home/tyler/rails_projects/sample_app",
+		"/home/tyler/rails_projects/demo_app",
+		"/home/tyler/rails_projects/first_app"
+	],
+	"last_window_id": 4,
+	"settings":
+	{
+		"new_window_height": 0.0,
+		"new_window_settings":
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"gr",
+						"group"
+					]
+				]
+			},
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"console":
+			{
+				"height": 0.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tyler/rails_projects/demo_app/app/models/micropost.rb",
+				"/home/tyler/rails_projects/demo_app/app/models/user.rb",
+				"/home/tyler/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/tyler/rails_projects/demo_app/Gemfile",
+				"/home/tyler/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/tyler/rails_projects/first_app/Gemfile",
+				"/home/tyler/rails_projects/first_app/.gitignore"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 0.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"replace":
+			{
+				"height": 0.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 150.0,
+			"status_bar_visible": true
+		},
+		"new_window_width": 0.0
+	},
+	"windows":
+	[
+		{
+			"auto_complete":
+			{
+				"selected_items":
+				[
+					[
+						"passw",
+						"password_confirmation"
+					],
+					[
+						"pass",
+						"password_confirmation"
+					],
+					[
+						"shou",
+						"should"
+					],
+					[
+						"user",
+						"user_for_invalid_password"
+					],
+					[
+						"inva",
+						"invalid"
+					],
+					[
+						"should",
+						"should_not"
+					],
+					[
+						"be",
+						"be_valid"
+					],
+					[
+						"have",
+						"have_selector"
+					],
+					[
+						"base",
+						"base_title"
+					],
+					[
+						"b",
+						"base_title"
+					],
+					[
+						"gr",
+						"group"
+					]
+				]
+			},
+			"buffers":
+			[
+				{
+					"file": "/home/tyler/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+					"settings":
+					{
+						"buffer_size": 368,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tyler/rails_projects/sample_app/config/routes.rb",
+					"settings":
+					{
+						"buffer_size": 2170,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tyler/rails_projects/sample_app/spec/requests/sessions_spec.rb",
+					"settings":
+					{
+						"buffer_size": 1183,
+						"line_ending": "Unix"
+					}
+				},
+				{
+					"file": "/home/tyler/rails_projects/sample_app/app/views/sessions/new.html.erb",
+					"settings":
+					{
+						"buffer_size": 459,
+						"line_ending": "Unix"
+					}
+				}
+			],
+			"build_system": "",
+			"command_palette":
+			{
+				"height": 33.0,
+				"selected_items":
+				[
+				],
+				"width": 575.0
+			},
+			"console":
+			{
+				"height": 139.0
+			},
+			"distraction_free":
+			{
+				"menu_visible": true,
+				"show_minimap": false,
+				"show_open_files": false,
+				"show_tabs": false,
+				"side_bar_visible": false,
+				"status_bar_visible": false
+			},
+			"file_history":
+			[
+				"/home/tyler/rails_projects/sample_app/spec/requests/sessions_spec.rb",
+				"/home/tyler/rails_projects/sample_app/app/views/sessions/new.html.erb",
+				"/home/tyler/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+				"/home/tyler/rails_projects/sample_app/spec/requests/authentication_spec.rb",
+				"/home/tyler/rails_projects/sample_app/config/routes.rb",
+				"/home/tyler/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+				"/home/tyler/rails_projects/sample_app/app/views/layouts/application.html.erb",
+				"/home/tyler/rails_projects/sample_app/app/helpers/users_helper.rb",
+				"/home/tyler/rails_projects/sample_app/spec/requests/users_spec.rb",
+				"/home/tyler/rails_projects/sample_app/app/views/users/show.html.erb",
+				"/home/tyler/rails_projects/sample_app/config/locales/en.yml",
+				"/home/tyler/rails_projects/sample_app/app/controllers/users_controller.rb",
+				"/home/tyler/rails_projects/sample_app/app/views/users/new.html.erb",
+				"/home/tyler/rails_projects/sample_app/app/views/shared/_error_messages.html.erb",
+				"/home/tyler/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+				"/home/tyler/rails_projects/sample_app/config/environments/production.rb",
+				"/home/tyler/rails_projects/sample_app/config/environments/test.rb",
+				"/home/tyler/rails_projects/sample_app/Gemfile",
+				"/home/tyler/rails_projects/sample_app/spec/factories.rb",
+				"/home/tyler/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+				"/home/tyler/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+				"/home/tyler/rails_projects/sample_app/config/database.yml",
+				"/home/tyler/rails_projects/sample_app/spec/models/user_spec.rb",
+				"/home/tyler/rails_projects/sample_app/app/models/user.rb",
+				"/home/tyler/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+				"/home/tyler/rails_projects/sample_app/db/migrate/20120330055644_add_password_digest_to_users.rb",
+				"/home/tyler/rails_projects/sample_app/db/migrate/20120330051517_add_index_to_users_email.rb",
+				"/home/tyler/rails_projects/sample_app/db/migrate/20120329145957_create_users.rb",
+				"/home/tyler/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
+				"/home/tyler/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+				"/home/tyler/rails_projects/sample_app/spec/support/utilities.rb",
+				"/home/tyler/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+				"/home/tyler/rails_projects/sample_app/app/assets/stylesheets/application.css",
+				"/home/tyler/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
+				"/home/tyler/rails_projects/sample_app/app/helpers/application_helper.rb",
+				"/home/tyler/Software/SublimeText2/PackageSetup.py",
+				"/home/tyler/rails_projects/sample_app/Guardfile",
+				"/home/tyler/rails_projects/sample_app/spec/spec_helper.rb",
+				"/home/tyler/rails_projects/sample_app/.rspec",
+				"/home/tyler/rails_projects/sample_app/.gitignore",
+				"/home/tyler/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+				"/home/tyler/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+				"/home/tyler/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+				"/home/tyler/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+				"/home/tyler/rails_projects/sample_app/README.rst",
+				"/home/tyler/rails_projects/sample_app/public/hello.html",
+				"/home/tyler/rails_projects/demo_app/app/models/micropost.rb",
+				"/home/tyler/rails_projects/demo_app/app/models/user.rb",
+				"/home/tyler/rails_projects/demo_app/Gemfile",
+				"/home/tyler/rails_projects/first_app/Gemfile",
+				"/home/tyler/rails_projects/first_app/.gitignore"
+			],
+			"find":
+			{
+				"height": 35.0
+			},
+			"find_in_files":
+			{
+				"height": 0.0,
+				"where_history":
+				[
+				]
+			},
+			"find_state":
+			{
+				"case_sensitive": false,
+				"find_history":
+				[
+					":text => ",
+					"#999;"
+				],
+				"highlight": true,
+				"in_selection": false,
+				"preserve_case": false,
+				"regex": false,
+				"replace_history":
+				[
+					"text: ",
+					"$grayLight;"
+				],
+				"reverse": false,
+				"show_context": true,
+				"use_buffer2": true,
+				"whole_word": false,
+				"wrap": true
+			},
+			"folders":
+			[
+				{
+					"path": "/home/tyler/rails_projects/sample_app"
+				}
+			],
+			"groups":
+			[
+				{
+					"sheets":
+					[
+						{
+							"buffer": 0,
+							"file": "/home/tyler/rails_projects/sample_app/app/controllers/sessions_controller.rb",
+							"settings":
+							{
+								"buffer_size": 368,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										310,
+										310
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 1,
+							"file": "/home/tyler/rails_projects/sample_app/config/routes.rb",
+							"settings":
+							{
+								"buffer_size": 2170,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										0,
+										0
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 2,
+							"file": "/home/tyler/rails_projects/sample_app/spec/requests/sessions_spec.rb",
+							"settings":
+							{
+								"buffer_size": 1183,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										579,
+										579
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Ruby/Ruby.tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 102.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						},
+						{
+							"buffer": 3,
+							"file": "/home/tyler/rails_projects/sample_app/app/views/sessions/new.html.erb",
+							"settings":
+							{
+								"buffer_size": 459,
+								"regions":
+								{
+								},
+								"selection":
+								[
+									[
+										378,
+										378
+									]
+								],
+								"settings":
+								{
+									"syntax": "Packages/Rails/HTML (Rails).tmLanguage",
+									"tab_size": 2,
+									"translate_tabs_to_spaces": true
+								},
+								"translation.x": 0.0,
+								"translation.y": 0.0,
+								"zoom_level": 1.0
+							},
+							"type": "text"
+						}
+					]
+				}
+			],
+			"incremental_find":
+			{
+				"height": 0.0
+			},
+			"input":
+			{
+				"height": 33.0
+			},
+			"layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			},
+			"menu_visible": true,
+			"output.tests":
+			{
+				"height": 85.0
+			},
+			"position": "0,1,0,0,0,-61,98,876,1125,941,759",
+			"replace":
+			{
+				"height": 64.0
+			},
+			"save_all_on_build": true,
+			"select_file":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"select_project":
+			{
+				"height": 0.0,
+				"selected_items":
+				[
+				],
+				"width": 0.0
+			},
+			"show_minimap": true,
+			"show_open_files": false,
+			"show_tabs": true,
+			"side_bar_visible": true,
+			"side_bar_width": 246.0,
+			"status_bar_visible": true,
+			"window_id": 4,
+			"workspace_name": ""
+		}
+	],
+	"workspaces":
+	{
+		"recent_workspaces":
+		[
+		]
+	}
+}

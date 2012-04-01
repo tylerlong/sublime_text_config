@@ -1,0 +1,4 @@
+{
+	"last_test_file": "sessions_spec.rb",
+	"last_test_run": "cd /home/tyler/rails_projects/sample_app/ && rspec spec/requests/sessions_spec.rb -l 15"
+}
